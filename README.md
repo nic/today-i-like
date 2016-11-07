@@ -6,3 +6,4 @@
 - [devtools-html/debugger.html: The Firefox debugger that works anywhere](https://github.com/devtools-html/debugger.html) 
 - [rgovindji/react-native-atoz-list: React Native Listview which handles large data sets and can scroll to sections using an alphabetical scroll list](https://github.com/rgovindji/react-native-atoz-list) 
 - [corymsmith/react-native-fabric: A React Native library for Fabric, Crashlytics and Answers](https://github.com/corymsmith/react-native-fabric) 
+- [27 gifs que explicam perfeitamente como as coisas funcionam](https://www.buzzfeed.com/maximilianzender/27-gifs-que-explicam-perfeitamente-como-as-coisas-funcionam?utm_term=.uqrQGDlEQr#.xgv5w9l35Z) 
