@@ -12,4 +12,3 @@
 - [Typed Redux](https://blog.callstack.io/typed-redux-2aa8bff926ff#.yirvc1sph) 
 - [sahat/hackathon-starter: A boilerplate for Node.js web applications](https://github.com/sahat/hackathon-starter) 
 - [zeit/next.js: A minimalistic framework for server-rendered React applications](https://github.com/zeit/next.js) 
-- [zeit/next.js: A minimalistic framework for server-rendered React applications](https://github.com/zeit/next.js) 
