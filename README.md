@@ -10,3 +10,4 @@
 
 ### November 8, 2016
 - [Typed Redux](https://blog.callstack.io/typed-redux-2aa8bff926ff#.yirvc1sph) 
+- [sahat/hackathon-starter: A boilerplate for Node.js web applications](https://github.com/sahat/hackathon-starter) 
