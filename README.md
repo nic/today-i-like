@@ -15,3 +15,6 @@
 
 ### November 9, 2016
 - [Roadmap · facebook/react-native Wiki](https://github.com/facebook/react-native/wiki/Roadmap) 
+
+### November 10, 2016
+- [CdLbB/fb-rotate: A Unix utility to rotate the display on any Mac and switch the primary display back and forth between displays.](https://github.com/CdLbB/fb-rotate) 
