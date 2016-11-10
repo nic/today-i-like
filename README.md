@@ -18,3 +18,4 @@
 
 ### November 10, 2016
 - [CdLbB/fb-rotate: A Unix utility to rotate the display on any Mac and switch the primary display back and forth between displays.](https://github.com/CdLbB/fb-rotate) 
+- [Fontface Ninja - Chrome Web Store](https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh/related) 
