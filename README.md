@@ -20,3 +20,6 @@
 - [CdLbB/fb-rotate: A Unix utility to rotate the display on any Mac and switch the primary display back and forth between displays.](https://github.com/CdLbB/fb-rotate) 
 - [Fontface Ninja - Chrome Web Store](https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh/related) 
 - [Kong - Open-Source API Management and Microservice Management](https://getkong.org/) 
+
+### November 11, 2016
+- [Animate React Native UI Elements - Course by @browniefed @eggheadio](https://egghead.io/courses/animate-react-native-ui-elements?utm_source=twitter&utm_medium=social&utm_content=react-native-animation) 
