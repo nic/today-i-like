@@ -23,3 +23,4 @@
 
 ### November 11, 2016
 - [Animate React Native UI Elements - Course by @browniefed @eggheadio](https://egghead.io/courses/animate-react-native-ui-elements?utm_source=twitter&utm_medium=social&utm_content=react-native-animation) 
+- [What the hell is a design technologist? – Interactive Mind – Medium](https://medium.com/interactive-mind/the-rise-of-the-design-technologist-e9516aa821a0#.3fyjfjbto) 
