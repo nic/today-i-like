@@ -29,3 +29,4 @@
 - [sibelius/react-native-relay-example: React Native with Relay example](https://github.com/sibelius/react-native-relay-example) 
 - [sibelius/ExNavRelay: Example of integrating ex-navigation with Relay](https://github.com/sibelius/ExNavRelay) 
 - [Redux Stack: Modular Redux Configuration – Medium](https://medium.com/@jondot/redux-stack-modular-redux-configuration-ec96412a2262#.6ekmr3lbs) 
+- [Blueprint – A React UI toolkit for the web](http://blueprintjs.com/) 
