@@ -34,3 +34,6 @@
 
 ### November 17, 2016
 - [h5bp/server-configs: Boilerplate configurations for various web servers.](https://github.com/h5bp/server-configs) 
+
+### November 18, 2016
+- [ios 10 permissions](https://gist.github.com/sibelius/83697c2f2f19330f83798729c0670da7) 
