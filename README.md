@@ -38,3 +38,6 @@
 ### November 18, 2016
 - [ios 10 permissions](https://gist.github.com/sibelius/83697c2f2f19330f83798729c0670da7) 
 - [GeekyAnts/NativeBase: Essential cross-platform UI components for React Native](https://github.com/GeekyAnts/NativeBase) 
+
+### November 23, 2016
+- [NervanaSystems/neon: Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™](https://github.com/NervanaSystems/neon) 
