@@ -41,3 +41,6 @@
 
 ### November 23, 2016
 - [NervanaSystems/neon: Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™](https://github.com/NervanaSystems/neon) 
+
+### November 24, 2016
+- [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/) 
