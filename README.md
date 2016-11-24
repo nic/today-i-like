@@ -44,3 +44,4 @@
 
 ### November 24, 2016
 - [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/) 
+- [okonet/react-dropzone: Simple HTML5 drag-drop zone with React.js.](https://github.com/okonet/react-dropzone) 
