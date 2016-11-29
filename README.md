@@ -52,3 +52,4 @@
 
 ### November 29, 2016
 - [Acidente: Lamia AVRO RJ-85 em Medellin, time da Chapecoense à bordo : Aviões e Músicas](http://www.avioesemusicas.com/acidente-lamia-avro-rj-85-em-medellin-time-da-chapecoense-a-bordo.html) 
+- [UX Project Checklist](https://uxchecklist.github.io/) 
