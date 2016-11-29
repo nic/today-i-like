@@ -49,3 +49,6 @@
 ### November 28, 2016
 - [Top Books on Amazon Based on Number of HN Users Linking them in Comments](http://ramiro.org/vis/hn-most-linked-books-unique-users/) 
 - [dabbott/react-native-express: Interactive tutorials for React Native beginners](https://github.com/dabbott/react-native-express) 
+
+### November 29, 2016
+- [Acidente: Lamia AVRO RJ-85 em Medellin, time da Chapecoense à bordo : Aviões e Músicas](http://www.avioesemusicas.com/acidente-lamia-avro-rj-85-em-medellin-time-da-chapecoense-a-bordo.html) 
