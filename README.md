@@ -54,3 +54,6 @@
 - [Acidente: Lamia AVRO RJ-85 em Medellin, time da Chapecoense à bordo : Aviões e Músicas](http://www.avioesemusicas.com/acidente-lamia-avro-rj-85-em-medellin-time-da-chapecoense-a-bordo.html) 
 - [UX Project Checklist](https://uxchecklist.github.io/) 
 - [TechRabbit: React Native Integration Tests](http://tech.taskrabbit.com/blog/2015/11/08/react-native-integration-tests/) 
+
+### November 30, 2016
+- [lucasbento/create-graphql: Command-line utility to build production-ready servers with GraphQL.](https://github.com/lucasbento/create-graphql) 
