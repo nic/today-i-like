@@ -57,3 +57,4 @@
 
 ### November 30, 2016
 - [lucasbento/create-graphql: Command-line utility to build production-ready servers with GraphQL.](https://github.com/lucasbento/create-graphql) 
+- [sibelius/graphql-dataloader-boilerplate: Very simple boilerplate using GraphQL and DataLoader](https://github.com/sibelius/graphql-dataloader-boilerplate) 
