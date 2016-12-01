@@ -62,3 +62,4 @@
 ### December 1, 2016
 - [Building React.js at Enterprise Scale – WalmartLabs – Medium](https://medium.com/walmartlabs/building-react-js-at-enterprise-scale-17c17a36fd1f#.prfdudsoz) 
 - [styled-components/styled-components: Visual primitives for the component age 💅](https://github.com/styled-components/styled-components) 
+- [The magic behind 💅 styled-components - Max Stoibers Blog](http://mxstbr.blog/2016/11/styled-components-magic-explained/) 
