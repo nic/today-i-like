@@ -58,3 +58,6 @@
 ### November 30, 2016
 - [lucasbento/create-graphql: Command-line utility to build production-ready servers with GraphQL.](https://github.com/lucasbento/create-graphql) 
 - [sibelius/graphql-dataloader-boilerplate: Very simple boilerplate using GraphQL and DataLoader](https://github.com/sibelius/graphql-dataloader-boilerplate) 
+
+### December 1, 2016
+- [Building React.js at Enterprise Scale – WalmartLabs – Medium](https://medium.com/walmartlabs/building-react-js-at-enterprise-scale-17c17a36fd1f#.prfdudsoz) 
