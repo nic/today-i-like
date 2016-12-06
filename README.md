@@ -66,3 +66,4 @@
 
 ### December 6, 2016
 - [Unicorn Startup Simulator](https://toggl.com/startup-simulator/) 
+- [nparashuram/maya-kai: Gesture mirroring for ReactNative](https://github.com/nparashuram/maya-kai) 
