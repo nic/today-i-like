@@ -67,3 +67,6 @@
 ### December 6, 2016
 - [Unicorn Startup Simulator](https://toggl.com/startup-simulator/) 
 - [nparashuram/maya-kai: Gesture mirroring for ReactNative](https://github.com/nparashuram/maya-kai) 
+
+### December 7, 2016
+- [Makes React Native components look more consistent on different device sizes. The base size is an iPhone 6.](https://gist.github.com/richardgill/b8fbddda2b10261bbb0db2f0cb7090bb) 
