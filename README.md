@@ -74,3 +74,4 @@
 ### December 12, 2016
 - [Diamond Cutting Laser Process The New Era - YouTube](https://www.youtube.com/watch?v=gM_Z-P_OSiY) 
 - [The Art Of Diamond Cutting - YouTube](https://www.youtube.com/watch?v=XZ-8US5tQNo) 
+- [https://video.twimg.com/tweet_video/ChsXlOwXIAETtB_.mp4](https://video.twimg.com/tweet_video/ChsXlOwXIAETtB_.mp4) 
