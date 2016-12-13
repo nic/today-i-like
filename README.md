@@ -80,3 +80,4 @@
 ### December 13, 2016
 - [rtsao/styletron: Universal, high-performance JavaScript styles](https://github.com/rtsao/styletron) 
 - [Stay focused. Accomplish more – Pomello](http://pomelloapp.com/) 
+- [JSON Web Tokens - jwt.io](https://jwt.io/) 
