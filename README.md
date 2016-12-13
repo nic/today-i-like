@@ -76,3 +76,6 @@
 - [The Art Of Diamond Cutting - YouTube](https://www.youtube.com/watch?v=XZ-8US5tQNo) 
 - [https://video.twimg.com/tweet_video/ChsXlOwXIAETtB_.mp4](https://video.twimg.com/tweet_video/ChsXlOwXIAETtB_.mp4) 
 - [brentvatne/movieapp: Discover Movies and TV shows - React Native](https://github.com/brentvatne/movieapp) 
+
+### December 13, 2016
+- [rtsao/styletron: Universal, high-performance JavaScript styles](https://github.com/rtsao/styletron) 
