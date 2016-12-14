@@ -89,3 +89,4 @@
 - [Netflix/vizceral: WebGL visualization for displaying animated traffic graphs](https://github.com/Netflix/vizceral) 
 - [Netflix Open Source Software Center](https://netflix.github.io/) 
 - [Substituindo React.PropTypes por Flow – Medium](https://medium.com/@oieduardorabelo/substituindo-react-proptypes-por-flow-d93de85d221#.gavizmbhd) 
+- ["Uncle" Bob Martin - "The Future of Programming" - YouTube](https://www.youtube.com/watch?v=ecIWPzGEbFc) 
