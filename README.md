@@ -86,3 +86,4 @@
 
 ### December 14, 2016
 - [ethereum/mist: Mist browser](https://github.com/ethereum/mist) 
+- [Netflix/vizceral: WebGL visualization for displaying animated traffic graphs](https://github.com/Netflix/vizceral) 
