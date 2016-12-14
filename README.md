@@ -83,3 +83,6 @@
 - [JSON Web Tokens - jwt.io](https://jwt.io/) 
 - [React Flexbox Grid](http://roylee0704.github.io/react-flexbox-grid/) 
 - [ModeGuideBOOTCAMP2010L.pdf](https://dschool.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf?sessionID=e62aa8294d323f1b1540d3ee21e961cf7d1bce38) 
+
+### December 14, 2016
+- [ethereum/mist: Mist browser](https://github.com/ethereum/mist) 
