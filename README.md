@@ -93,3 +93,4 @@
 
 ### December 15, 2016
 - [mxstbr/react-boilerplate: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](https://github.com/mxstbr/react-boilerplate) 
+- [cloudson/gitql: A git query language](https://github.com/cloudson/gitql) 
