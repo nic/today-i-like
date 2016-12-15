@@ -90,3 +90,6 @@
 - [Netflix Open Source Software Center](https://netflix.github.io/) 
 - [Substituindo React.PropTypes por Flow – Medium](https://medium.com/@oieduardorabelo/substituindo-react-proptypes-por-flow-d93de85d221#.gavizmbhd) 
 - ["Uncle" Bob Martin - "The Future of Programming" - YouTube](https://www.youtube.com/watch?v=ecIWPzGEbFc) 
+
+### December 15, 2016
+- [mxstbr/react-boilerplate: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](https://github.com/mxstbr/react-boilerplate) 
