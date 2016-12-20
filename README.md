@@ -107,3 +107,4 @@
 - [Dagger ‡ A fast dependency injector for Android and Java.](https://google.github.io/dagger/) 
 - [Retrofit](https://square.github.io/retrofit/) 
 - [Fresco | An image management library. | Fresco](http://frescolib.org/) 
+- [Butter Knife](http://jakewharton.github.io/butterknife/) 
