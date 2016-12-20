@@ -111,3 +111,4 @@
 - [ReactiveX/RxJava: RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.](https://github.com/ReactiveX/RxJava) 
 - [FlatBuffers: Main Page](https://google.github.io/flatbuffers/) 
 - [Robolectric](http://robolectric.org/) 
+- [Último Programa do Jô na Globo - Ziraldo - 16/12/2016 - YouTube](https://www.youtube.com/watch?v=S9I53fO8gn0) 
