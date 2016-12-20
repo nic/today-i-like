@@ -113,3 +113,4 @@
 - [Robolectric](http://robolectric.org/) 
 - [Último Programa do Jô na Globo - Ziraldo - 16/12/2016 - YouTube](https://www.youtube.com/watch?v=S9I53fO8gn0) 
 - [facebookincubator/create-react-app: Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app) 
+- [React JS - 1 - Introdução à biblioteca - YouTube](https://www.youtube.com/watch?v=S81XuZ44B2I) 
