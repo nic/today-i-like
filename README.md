@@ -102,3 +102,6 @@
 ### December 19, 2016
 - [nlohmann/json: JSON for Modern C++](https://github.com/nlohmann/json) 
 - [nothings/single_file_libs: List of single-file C/C++ libraries.](https://github.com/nothings/single_file_libs?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
+
+### December 20, 2016
+- [Dagger ‡ A fast dependency injector for Android and Java.](https://google.github.io/dagger/) 
