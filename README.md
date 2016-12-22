@@ -118,3 +118,4 @@
 ### December 22, 2016
 - [OpenBazaar](https://openbazaar.org/) 
 - [DavidJohnstonCEO/DecentralizedApplications: Decentralized Applications White Paper and Spec](https://github.com/DavidJohnstonCEO/DecentralizedApplications) 
+- [skellock/apisauce: A JSON API client for JavaScript. No, no. Not like that. Like this.](https://github.com/skellock/apisauce) 
