@@ -123,3 +123,6 @@
 ### December 23, 2016
 - [exponent/ex-navigation: Route-centric navigation for React Native](https://github.com/exponent/ex-navigation) 
 - [slash-hq/slash: Slack terminal client.](https://github.com/slash-hq/slash) 
+
+### December 26, 2016
+- [petehunt/react-howto: Your guide to the (sometimes overwhelming!) React ecosystem.](https://github.com/petehunt/react-howto) 
