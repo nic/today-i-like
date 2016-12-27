@@ -134,3 +134,4 @@
 - [facebook/shimmer-android: An easy, flexible way to add a shimmering effect to any view in an Android app.](https://github.com/facebook/shimmer-android) 
 - [Create Apps with No Configuration - React Blog](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) 
 - [New Links | React HN](https://react-hn.appspot.com/#/newest?_k=7itxuq) 
+- [What to learn in 2017 if you’re a frontend developer – Medium](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.6ifib7g3i) 
