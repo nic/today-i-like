@@ -130,3 +130,4 @@
 ### December 27, 2016
 - [ggomaeng/react-native-fan-button: Pure javascript fan button that expands with more options when clicked.](https://github.com/ggomaeng/react-native-fan-button) 
 - [ParsePlatform/parse-server: Parse-compatible API server module for Node/Express](https://github.com/ParsePlatform/parse-server) 
+- [facebook/osquery: SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/facebook/osquery) 
