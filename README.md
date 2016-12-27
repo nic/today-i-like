@@ -139,3 +139,4 @@
 - [Fiverr: Gráficos, marketing, diversão e muitos outros serviços online por $5](https://br.fiverr.com/) 
 - [PhotoPin - Free Photos for Bloggers via Creative Commons](http://photopin.com/) 
 - [Design for Non-Designers - YouTube](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) 
+- [Soft Skills.pdf](http://pdf.th7.cn/down/files/1508/Soft%20Skills.pdf) 
