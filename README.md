@@ -126,3 +126,6 @@
 
 ### December 26, 2016
 - [petehunt/react-howto: Your guide to the (sometimes overwhelming!) React ecosystem.](https://github.com/petehunt/react-howto) 
+
+### December 27, 2016
+- [ggomaeng/react-native-fan-button: Pure javascript fan button that expands with more options when clicked.](https://github.com/ggomaeng/react-native-fan-button) 
