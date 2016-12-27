@@ -133,3 +133,4 @@
 - [facebook/osquery: SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/facebook/osquery) 
 - [facebook/shimmer-android: An easy, flexible way to add a shimmering effect to any view in an Android app.](https://github.com/facebook/shimmer-android) 
 - [Create Apps with No Configuration - React Blog](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) 
+- [New Links | React HN](https://react-hn.appspot.com/#/newest?_k=7itxuq) 
