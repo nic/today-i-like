@@ -136,3 +136,4 @@
 - [New Links | React HN](https://react-hn.appspot.com/#/newest?_k=7itxuq) 
 - [What to learn in 2017 if you’re a frontend developer – Medium](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.6ifib7g3i) 
 - [Unsplash | Free High-Resolution Photos](https://unsplash.com/) 
+- [Fiverr: Gráficos, marketing, diversão e muitos outros serviços online por $5](https://br.fiverr.com/) 
