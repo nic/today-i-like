@@ -132,3 +132,4 @@
 - [ParsePlatform/parse-server: Parse-compatible API server module for Node/Express](https://github.com/ParsePlatform/parse-server) 
 - [facebook/osquery: SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/facebook/osquery) 
 - [facebook/shimmer-android: An easy, flexible way to add a shimmering effect to any view in an Android app.](https://github.com/facebook/shimmer-android) 
+- [Create Apps with No Configuration - React Blog](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) 
