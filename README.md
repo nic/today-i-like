@@ -140,3 +140,6 @@
 - [PhotoPin - Free Photos for Bloggers via Creative Commons](http://photopin.com/) 
 - [Design for Non-Designers - YouTube](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) 
 - [Soft Skills.pdf](http://pdf.th7.cn/down/files/1508/Soft%20Skills.pdf) 
+
+### December 28, 2016
+- [Search · stars:>1](https://github.com/search?q=stars:%3E1&s=stars&type=Repositories) 
