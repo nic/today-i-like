@@ -147,3 +147,4 @@
 
 ### December 30, 2016
 - [(21) Infográfico Dicionário Visual - Acabamentos e Formatos | Design | Pinterest](https://br.pinterest.com/pin/307722587023170458/?utm_campaign=category_pp&e_t=7af98cb2de4848eea3e74a594662211d&utm_content=307722587023170458&utm_source=31&utm_term=2&utm_medium=2012) 
+- [Como destacar seu conteúdo com técnicas de storytelling](http://www.profissionaldeecommerce.com.br/como-destacar-seu-conteudo-com-tecnicas-de-storytelling/?utm_source=news&utm_medium=email&utm_campaign=storytelling) 
