@@ -144,3 +144,6 @@
 ### December 28, 2016
 - [Search · stars:>1](https://github.com/search?q=stars:%3E1&s=stars&type=Repositories) 
 - [avajs/ava: Futuristic JavaScript test runner](https://github.com/avajs/ava) 
+
+### December 30, 2016
+- [(21) Infográfico Dicionário Visual - Acabamentos e Formatos | Design | Pinterest](https://br.pinterest.com/pin/307722587023170458/?utm_campaign=category_pp&e_t=7af98cb2de4848eea3e74a594662211d&utm_content=307722587023170458&utm_source=31&utm_term=2&utm_medium=2012) 
