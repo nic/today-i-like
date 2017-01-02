@@ -160,3 +160,4 @@
 - [fastlane/fastlane: 🚀 The easiest way to automate building and releasing your iOS and Android apps](https://github.com/fastlane/fastlane) 
 - [antirez/disque: Disque is a distributed message broker](https://github.com/antirez/disque) 
 - [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow) 
+- [nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck) 
