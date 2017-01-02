@@ -154,3 +154,4 @@
 
 ### January 1, 2017
 - [airbnb/superset: Superset is a data exploration platform designed to be visual, intuitive, and interactive](https://github.com/airbnb/superset) 
+- [domnikl/DesignPatternsPHP: sample code for several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP) 
