@@ -151,3 +151,6 @@
 - [(21) Diagrama com o processo de evolução de uma startup, desde a primeira ideia até escala do negócio. | Social Media & Mkt | Pinterest](https://br.pinterest.com/pin/566468459352629680/?utm_campaign=category_pp&e_t=7af98cb2de4848eea3e74a594662211d&utm_content=566468459352629680&utm_source=31&utm_term=3&utm_medium=2012) 
 - [(21) Psicologia das Cores | Livros | Pinterest](https://br.pinterest.com/pin/67694800629001805/?utm_campaign=category_pp&e_t=7af98cb2de4848eea3e74a594662211d&utm_content=67694800629001805&utm_source=31&utm_term=1&utm_medium=2012) 
 - [styled-components/tips-and-tricks.md at master · styled-components/styled-components](https://github.com/styled-components/styled-components/blob/master/docs/tips-and-tricks.md#component-adjustments) 
+
+### January 1, 2017
+- [airbnb/superset: Superset is a data exploration platform designed to be visual, intuitive, and interactive](https://github.com/airbnb/superset) 
