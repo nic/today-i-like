@@ -159,3 +159,4 @@
 - [discourse/discourse: A platform for community discussion. Free, open, simple.](https://github.com/discourse/discourse) 
 - [fastlane/fastlane: 🚀 The easiest way to automate building and releasing your iOS and Android apps](https://github.com/fastlane/fastlane) 
 - [antirez/disque: Disque is a distributed message broker](https://github.com/antirez/disque) 
+- [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow) 
