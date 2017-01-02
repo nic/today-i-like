@@ -158,3 +158,4 @@
 - [fzaninotto/Faker: Faker is a PHP library that generates fake data for you](https://github.com/fzaninotto/Faker) 
 - [discourse/discourse: A platform for community discussion. Free, open, simple.](https://github.com/discourse/discourse) 
 - [fastlane/fastlane: 🚀 The easiest way to automate building and releasing your iOS and Android apps](https://github.com/fastlane/fastlane) 
+- [antirez/disque: Disque is a distributed message broker](https://github.com/antirez/disque) 
