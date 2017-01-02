@@ -156,3 +156,4 @@
 - [airbnb/superset: Superset is a data exploration platform designed to be visual, intuitive, and interactive](https://github.com/airbnb/superset) 
 - [domnikl/DesignPatternsPHP: sample code for several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP) 
 - [fzaninotto/Faker: Faker is a PHP library that generates fake data for you](https://github.com/fzaninotto/Faker) 
+- [discourse/discourse: A platform for community discussion. Free, open, simple.](https://github.com/discourse/discourse) 
