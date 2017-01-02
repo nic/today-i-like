@@ -161,3 +161,6 @@
 - [antirez/disque: Disque is a distributed message broker](https://github.com/antirez/disque) 
 - [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow) 
 - [nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck) 
+
+### January 2, 2017
+- [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk) 
