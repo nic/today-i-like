@@ -170,3 +170,4 @@
 - [lucaorio/sketch-styles-generator: Generate hundreds of Sketch Shared Styles in a matter of seconds.](https://github.com/lucaorio/sketch-styles-generator?ct=t(RSS_EMAIL_CAMPAIGN)) 
 - [eddiesigner/sketch-map-generator: Plugin to fill a shape with a map generated from a location (Powered by Google Maps)](https://github.com/eddiesigner/sketch-map-generator?ct=t(RSS_EMAIL_CAMPAIGN)) 
 - [Auto Layout for Sketch](https://animaapp.github.io/Auto-Layout/?ct=t(RSS_EMAIL_CAMPAIGN)) 
+- [antirez/neural-redis: Neural networks module for Redis](https://github.com/antirez/neural-redis) 
