@@ -171,3 +171,4 @@
 - [eddiesigner/sketch-map-generator: Plugin to fill a shape with a map generated from a location (Powered by Google Maps)](https://github.com/eddiesigner/sketch-map-generator?ct=t(RSS_EMAIL_CAMPAIGN)) 
 - [Auto Layout for Sketch](https://animaapp.github.io/Auto-Layout/?ct=t(RSS_EMAIL_CAMPAIGN)) 
 - [antirez/neural-redis: Neural networks module for Redis](https://github.com/antirez/neural-redis) 
+- [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.jnco9z14f) 
