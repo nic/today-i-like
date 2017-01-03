@@ -167,3 +167,4 @@
 
 ### January 3, 2017
 - [[Javascript] ES7 Async Await BIBLE](https://hackernoon.com/javascript-es7-async-await-bible-tutorial-example-32294f6133ab#.nrlegsysg) 
+- [lucaorio/sketch-styles-generator: Generate hundreds of Sketch Shared Styles in a matter of seconds.](https://github.com/lucaorio/sketch-styles-generator?ct=t(RSS_EMAIL_CAMPAIGN)) 
