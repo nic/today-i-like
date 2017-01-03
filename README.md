@@ -164,3 +164,6 @@
 
 ### January 2, 2017
 - [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk) 
+
+### January 3, 2017
+- [[Javascript] ES7 Async Await BIBLE](https://hackernoon.com/javascript-es7-async-await-bible-tutorial-example-32294f6133ab#.nrlegsysg) 
