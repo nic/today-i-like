@@ -177,3 +177,6 @@
 ### January 5, 2017
 - [tonsky/datascript: Immutable database and Datalog query engine for Clojure, ClojureScript and JS](https://github.com/tonsky/datascript) 
 - [pandas-dev/pandas: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more](https://github.com/pandas-dev/pandas) 
+
+### January 6, 2017
+- [so-fancy/diff-so-fancy at stackshare](https://github.com/so-fancy/diff-so-fancy?ref=stackshare) 
