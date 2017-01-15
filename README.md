@@ -182,3 +182,6 @@
 - [so-fancy/diff-so-fancy at stackshare](https://github.com/so-fancy/diff-so-fancy?ref=stackshare) 
 - [The Top 50 Developer Tools of 2016 | StackShare](https://stackshare.io/posts/top-developer-tools-2016?utm_content=stackshare_awards&utm_campaign=eoy_2016&utm_source=StackShare%20Marketing&utm_medium=email) 
 - [carloscuesta/react-native-layout-debug: React native layout debugger. 🔍](https://github.com/carloscuesta/react-native-layout-debug) 
+
+### January 15, 2017
+- [Instructions • DIY directional microphone for DSLR • Hackaday.io](https://hackaday.io/project/7546/instructions) 
