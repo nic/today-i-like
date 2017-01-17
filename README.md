@@ -186,3 +186,6 @@
 ### January 15, 2017
 - [Instructions • DIY directional microphone for DSLR • Hackaday.io](https://hackaday.io/project/7546/instructions) 
 - [giladaya/arduino-particle-sys: A particle system library for arduino](https://github.com/giladaya/arduino-particle-sys) 
+
+### January 17, 2017
+- [Now & Next - YouTube](https://www.youtube.com/watch?v=__b6k2pR3Tg) 
