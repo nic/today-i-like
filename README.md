@@ -190,3 +190,4 @@
 ### January 17, 2017
 - [Now & Next - YouTube](https://www.youtube.com/watch?v=__b6k2pR3Tg) 
 - [feross/standard: :star2: JavaScript Standard Style Guide](https://github.com/feross/standard) 
+- [7 Principles of Rich Web Applications](https://rauchg.com/2014/7-principles-of-rich-web-applications) 
