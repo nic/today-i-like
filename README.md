@@ -191,3 +191,6 @@
 - [Now & Next - YouTube](https://www.youtube.com/watch?v=__b6k2pR3Tg) 
 - [feross/standard: :star2: JavaScript Standard Style Guide](https://github.com/feross/standard) 
 - [7 Principles of Rich Web Applications](https://rauchg.com/2014/7-principles-of-rich-web-applications) 
+
+### January 18, 2017
+- [Transistor Gates](http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html) 
