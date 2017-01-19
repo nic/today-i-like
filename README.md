@@ -194,3 +194,6 @@
 
 ### January 18, 2017
 - [Transistor Gates](http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html) 
+
+### January 19, 2017
+- [sowbug/weblight: WebUSB LED. Hardware, software, and firmware.](https://github.com/sowbug/weblight) 
