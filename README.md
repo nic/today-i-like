@@ -200,3 +200,6 @@
 
 ### January 27, 2017
 - [react-community/react-navigation: Learn once, navigate anywhere](https://github.com/react-community/react-navigation) 
+
+### February 7, 2017
+- [RethinkDB joins The Linux Foundation - RethinkDB](https://rethinkdb.com/blog/rethinkdb-joins-linux-foundation/) 
