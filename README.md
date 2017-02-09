@@ -204,3 +204,6 @@
 ### February 7, 2017
 - [RethinkDB joins The Linux Foundation - RethinkDB](https://rethinkdb.com/blog/rethinkdb-joins-linux-foundation/) 
 - [React Native at Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.pdmkudl2z) 
+
+### February 9, 2017
+- [SEED Engineering - Our Stack – Medium](https://medium.com/@seed/seed-engineering-our-stack-f72a9079a6b8#.xs1ysfklv) 
