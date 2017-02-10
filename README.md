@@ -208,3 +208,6 @@
 ### February 9, 2017
 - [SEED Engineering - Our Stack – Medium](https://medium.com/@seed/seed-engineering-our-stack-f72a9079a6b8#.xs1ysfklv) 
 - [cmder | Console Emulator](http://cmder.net/) 
+
+### February 10, 2017
+- [Let's Learn GraphQL | Learn GraphQL](https://learngraphql.com/) 
