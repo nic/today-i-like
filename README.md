@@ -219,3 +219,6 @@
 ### February 14, 2017
 - [https://blog.teller.io](https://blog.teller.io/) 
 - [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/) 
+
+### February 15, 2017
+- [Open Source Guide - A community guide for open source creators.](https://opensource.guide/) 
