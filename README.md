@@ -222,3 +222,4 @@
 
 ### February 15, 2017
 - [Open Source Guide - A community guide for open source creators.](https://opensource.guide/) 
+- [martinpaljak/GlobalPlatformPro: Manage applets and keys on JavaCard-s like a pro (via command line or from your Java project)](https://github.com/martinpaljak/GlobalPlatformPro#usage) 
