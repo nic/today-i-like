@@ -223,3 +223,6 @@
 ### February 15, 2017
 - [Open Source Guide - A community guide for open source creators.](https://opensource.guide/) 
 - [martinpaljak/GlobalPlatformPro: Manage applets and keys on JavaCard-s like a pro (via command line or from your Java project)](https://github.com/martinpaljak/GlobalPlatformPro#usage) 
+
+### February 20, 2017
+- [hwcrypto/hwcrypto.js: Browser JavaScript library for working with hardware tokens](https://github.com/hwcrypto/hwcrypto.js) 
