@@ -226,3 +226,6 @@
 
 ### February 20, 2017
 - [hwcrypto/hwcrypto.js: Browser JavaScript library for working with hardware tokens](https://github.com/hwcrypto/hwcrypto.js) 
+
+### February 23, 2017
+- [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019#.2hk6aeywg) 
