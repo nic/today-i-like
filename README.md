@@ -237,3 +237,6 @@
 
 ### March 8, 2017
 - [The Anatomy of a GraphQL Query](https://dev-blog.apollodata.com/the-anatomy-of-a-graphql-query-6dffa9e9e747#.9o7xqnrt3) 
+
+### March 13, 2017
+- [What is a Test Plan? – Medium](https://medium.com/@martinkonicek/what-is-a-test-plan-8bfc840ec171#.hhch8m1yy) 
