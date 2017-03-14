@@ -242,3 +242,4 @@
 - [What is a Test Plan? – Medium](https://medium.com/@martinkonicek/what-is-a-test-plan-8bfc840ec171#.hhch8m1yy) 
 - [jonathanslima/track-to-learn-english: Track to learn English](https://github.com/jonathanslima/track-to-learn-english) 
 - [React Conf 2017 - YouTube](https://www.youtube.com/watch?v=S8HXkEnA48g) 
+- [airbnb/native-navigation: Native navigation library for React Native applications](https://github.com/airbnb/native-navigation) 
