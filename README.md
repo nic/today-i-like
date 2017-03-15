@@ -243,3 +243,6 @@
 - [jonathanslima/track-to-learn-english: Track to learn English](https://github.com/jonathanslima/track-to-learn-english) 
 - [React Conf 2017 - YouTube](https://www.youtube.com/watch?v=S8HXkEnA48g) 
 - [airbnb/native-navigation: Native navigation library for React Native applications](https://github.com/airbnb/native-navigation) 
+
+### March 15, 2017
+- [Adeus Flexbox, bem vindo CSS Grid Layout! by Simone Amorim on CodePen](http://codepen.io/simoneas02/post/grid-layout) 
