@@ -246,3 +246,6 @@
 
 ### March 15, 2017
 - [Adeus Flexbox, bem vindo CSS Grid Layout! by Simone Amorim on CodePen](http://codepen.io/simoneas02/post/grid-layout) 
+
+### March 17, 2017
+- [Victory](http://formidable.com/open-source/victory/) 
