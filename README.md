@@ -249,3 +249,4 @@
 
 ### March 17, 2017
 - [Victory](http://formidable.com/open-source/victory/) 
+- [FormidableLabs/victory: A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory) 
