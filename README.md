@@ -250,3 +250,6 @@
 ### March 17, 2017
 - [Victory](http://formidable.com/open-source/victory/) 
 - [FormidableLabs/victory: A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory) 
+
+### March 18, 2017
+- [Bolo de coco e cacau sem glúten com baixo carboidrato | Fernanda Scheer](http://fernandascheer.com.br/bolo-de-coco-e-cacau-sem-gluten-com-baixo-carboidrato/) 
