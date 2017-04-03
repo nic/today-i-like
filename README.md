@@ -259,3 +259,6 @@
 ### March 20, 2017
 - [Ape Tools: Don't Go Ape - Go Ape Tools. App Icon and Splashscreen Generator. Make your app happen.](http://apetools.webprofusion.com/tools/imagegorilla) 
 - [knsv/mermaid: Generation of diagram and flowchart from text in a similar manner as markdown](https://github.com/knsv/mermaid) 
+
+### April 3, 2017
+- [What’s Next.js for Apollo – Apollo GraphQL](https://dev-blog.apollodata.com/whats-next-js-for-apollo-e4dfe835d070) 
