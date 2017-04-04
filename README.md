@@ -262,3 +262,6 @@
 
 ### April 3, 2017
 - [What’s Next.js for Apollo – Apollo GraphQL](https://dev-blog.apollodata.com/whats-next-js-for-apollo-e4dfe835d070) 
+
+### April 4, 2017
+- [Introdução · React: de Padawan a Mestre Jedi](https://skilloio.gitbooks.io/react-de-padawan-a-mestre-jedi/) 
