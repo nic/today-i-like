@@ -265,3 +265,6 @@
 
 ### April 4, 2017
 - [Introdução · React: de Padawan a Mestre Jedi](https://skilloio.gitbooks.io/react-de-padawan-a-mestre-jedi/) 
+
+### April 10, 2017
+- [GraphQL - APIs mais robustas e flexíveis](https://www.slideshare.net/brunolemos/graphql-apis-mais-robustas-e-flexveis) 
