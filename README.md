@@ -268,3 +268,6 @@
 
 ### April 10, 2017
 - [GraphQL - APIs mais robustas e flexíveis](https://www.slideshare.net/brunolemos/graphql-apis-mais-robustas-e-flexveis) 
+
+### April 12, 2017
+- [Objective-See](https://objective-see.com/products.html) 
