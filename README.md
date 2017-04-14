@@ -271,3 +271,6 @@
 
 ### April 12, 2017
 - [Objective-See](https://objective-see.com/products.html) 
+
+### April 14, 2017
+- [reactide/reactide: Reactide is the first dedicated IDE for React web application development. http://reactide.io](https://github.com/reactide/reactide) 
