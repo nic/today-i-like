@@ -275,3 +275,4 @@
 ### April 14, 2017
 - [reactide/reactide: Reactide is the first dedicated IDE for React web application development. http://reactide.io](https://github.com/reactide/reactide) 
 - [atomiks/tippyjs: A lightweight, pure JS tooltip library](https://github.com/atomiks/tippyjs) 
+- [The Best of JavaScript and the web platform](http://bestof.js.org/) 
