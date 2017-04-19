@@ -280,3 +280,6 @@
 ### April 18, 2017
 - [caffe2/caffe2: Caffe2 is a cross-platform framework made with expression, speed, and modularity in mind.](https://github.com/caffe2/caffe2) 
 - [Caffe 2 | Caffe2](http://caffe2.ai/) 
+
+### April 19, 2017
+- [UX Project Checklist](http://uxchecklist.github.io/) 
