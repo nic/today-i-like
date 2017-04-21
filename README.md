@@ -287,3 +287,4 @@
 ### April 21, 2017
 - [webdriverio/webdriverio: Webdriver/Selenium JavaScript bindings for Node.js](https://github.com/webdriverio/webdriverio) 
 - [O que não te contaram sobre trabalho remoto](http://blog.taller.net.br/o-que-nao-te-contaram-sobre-o-trabalho-remoto/) 
+- [Designing GraphQL Mutations – Apollo GraphQL](https://dev-blog.apollodata.com/designing-graphql-mutations-e09de826ed97) 
