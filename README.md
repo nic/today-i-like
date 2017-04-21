@@ -283,3 +283,6 @@
 
 ### April 19, 2017
 - [UX Project Checklist](http://uxchecklist.github.io/) 
+
+### April 21, 2017
+- [webdriverio/webdriverio: Webdriver/Selenium JavaScript bindings for Node.js](https://github.com/webdriverio/webdriverio) 
