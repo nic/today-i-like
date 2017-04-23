@@ -288,3 +288,6 @@
 - [webdriverio/webdriverio: Webdriver/Selenium JavaScript bindings for Node.js](https://github.com/webdriverio/webdriverio) 
 - [O que não te contaram sobre trabalho remoto](http://blog.taller.net.br/o-que-nao-te-contaram-sobre-o-trabalho-remoto/) 
 - [Designing GraphQL Mutations – Apollo GraphQL](https://dev-blog.apollodata.com/designing-graphql-mutations-e09de826ed97) 
+
+### April 23, 2017
+- [Mevo - The Live Event Video Camera](https://getmevo.com/) 
