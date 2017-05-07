@@ -291,3 +291,6 @@
 
 ### April 23, 2017
 - [Mevo - The Live Event Video Camera](https://getmevo.com/) 
+
+### May 6, 2017
+- [O Jusbrasil pode acabar em 6 meses? Sim, definitivamente](https://rafaelcosta.jusbrasil.com.br/artigos/454529208/o-jusbrasil-pode-acabar-em-6-meses-sim-definitivamente?utm_content=bufferce634&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer) 
