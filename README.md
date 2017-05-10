@@ -294,3 +294,6 @@
 
 ### May 6, 2017
 - [O Jusbrasil pode acabar em 6 meses? Sim, definitivamente](https://rafaelcosta.jusbrasil.com.br/artigos/454529208/o-jusbrasil-pode-acabar-em-6-meses-sim-definitivamente?utm_content=bufferce634&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer) 
+
+### May 9, 2017
+- [garbles/why-did-you-update: Puts your console on blast when React is making unnecessary updates.](https://github.com/garbles/why-did-you-update) 
