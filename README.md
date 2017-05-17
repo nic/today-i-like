@@ -297,3 +297,6 @@
 
 ### May 9, 2017
 - [garbles/why-did-you-update: Puts your console on blast when React is making unnecessary updates.](https://github.com/garbles/why-did-you-update) 
+
+### May 17, 2017
+- [Yarn Create & Yarn 1.0 | Yarn Blog](https://yarnpkg.com/blog/2017/05/12/introducing-yarn/) 
