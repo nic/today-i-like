@@ -300,3 +300,6 @@
 
 ### May 17, 2017
 - [Yarn Create & Yarn 1.0 | Yarn Blog](https://yarnpkg.com/blog/2017/05/12/introducing-yarn/) 
+
+### January 8, 2018 
+- [cancaonova.com - Tudo sobre formação espiritual, notícias da Igreja e música](https://www.cancaonova.com/) 
