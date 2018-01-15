@@ -305,3 +305,6 @@
 - [cancaonova.com - Tudo sobre formação espiritual, notícias da Igreja e música](https://www.cancaonova.com/) 
 - [nic/relay: Kit para Iniciantes no Relay Modern](https://github.com/nic/relay) 
 - [Voltei!](https://github.com/nic/today-i-like) 
+
+### January 15, 2018 
+- [Docker + Cluster DRBD + SQL Server – Database as a Service utilizando volumes replicados – ChurrOps on DevOps](https://churrops.io/2018/01/14/docker-cluster-drbd-sql-server-database-as-a-service-utilizando-volumes-replicados/) 
