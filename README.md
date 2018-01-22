@@ -311,3 +311,4 @@
 
 ### January 22, 2018 
 - [Currying in JS – Hacker Noon](https://hackernoon.com/currying-in-js-d9ddc64f162e) 
+- [JS Paint](http://jspaint.ml/#local:b39e22f57fbdf) 
