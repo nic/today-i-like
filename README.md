@@ -308,3 +308,6 @@
 
 ### January 15, 2018 
 - [Docker + Cluster DRBD + SQL Server – Database as a Service utilizando volumes replicados – ChurrOps on DevOps](https://churrops.io/2018/01/14/docker-cluster-drbd-sql-server-database-as-a-service-utilizando-volumes-replicados/) 
+
+### January 22, 2018 
+- [Currying in JS – Hacker Noon](https://hackernoon.com/currying-in-js-d9ddc64f162e) 
