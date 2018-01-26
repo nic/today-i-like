@@ -312,3 +312,6 @@
 ### January 22, 2018 
 - [Currying in JS – Hacker Noon](https://hackernoon.com/currying-in-js-d9ddc64f162e) 
 - [JS Paint](http://jspaint.ml/#local:b39e22f57fbdf) 
+
+### January 26, 2018 
+- [goTenna | goTenna Mesh](https://www.gotenna.com/pages/mesh) 
