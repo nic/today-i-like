@@ -315,3 +315,4 @@
 
 ### January 26, 2018 
 - [goTenna | goTenna Mesh](https://www.gotenna.com/pages/mesh) 
+- [Working with CSVs on the Command Line](http://bconnelly.net/working-with-csvs-on-the-command-line/#determining-the-number-of-columns) 
