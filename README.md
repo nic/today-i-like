@@ -316,3 +316,6 @@
 ### January 26, 2018 
 - [goTenna | goTenna Mesh](https://www.gotenna.com/pages/mesh) 
 - [Working with CSVs on the Command Line](http://bconnelly.net/working-with-csvs-on-the-command-line/#determining-the-number-of-columns) 
+
+### February 4, 2018 
+- [G1 – Banco de boatos](http://especiais.g1.globo.com/e-ou-nao-e/2017/banco-de-boatos/) 
