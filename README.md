@@ -324,3 +324,6 @@
 
 ### February 6, 2018 
 - [Keith Kenniff - Wikipedia](https://en.wikipedia.org/wiki/Keith_Kenniff) 
+
+### February 16, 2018 
+- [Iniciando com Redux em 9 passos – React Brasil – Medium](https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf) 
