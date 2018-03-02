@@ -327,3 +327,6 @@
 
 ### February 16, 2018 
 - [Iniciando com Redux em 9 passos – React Brasil – Medium](https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf) 
+
+### March 2, 2018 
+- [N26 - Shut Up and Take My Money! (33c3) - YouTube](https://www.youtube.com/watch?v=KopWe2ZpVQI) 
