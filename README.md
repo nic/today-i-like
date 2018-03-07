@@ -330,3 +330,6 @@
 
 ### March 2, 2018 
 - [N26 - Shut Up and Take My Money! (33c3) - YouTube](https://www.youtube.com/watch?v=KopWe2ZpVQI) 
+
+### March 6, 2018 
+- [How To Be Objective When You’re Emotionally Invested](https://www.fastcompany.com/3039453/how-to-be-objective-when-youre-emotionally-invested) 
