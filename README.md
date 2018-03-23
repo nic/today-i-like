@@ -333,3 +333,6 @@
 
 ### March 6, 2018 
 - [How To Be Objective When You’re Emotionally Invested](https://www.fastcompany.com/3039453/how-to-be-objective-when-youre-emotionally-invested) 
+
+### March 22, 2018 
+- [oclif/oclif: oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.](https://github.com/oclif/oclif) 
