@@ -336,3 +336,6 @@
 
 ### March 22, 2018 
 - [oclif/oclif: oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.](https://github.com/oclif/oclif) 
+
+### March 30, 2018 
+- [Popmotion/popmotion: A functional, reactive animation library.](https://github.com/popmotion/popmotion) 
