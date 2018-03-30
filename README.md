@@ -339,3 +339,4 @@
 
 ### March 30, 2018 
 - [Popmotion/popmotion: A functional, reactive animation library.](https://github.com/popmotion/popmotion) 
+- [prettier/prettier: Prettier is an opinionated code formatter.](https://github.com/prettier/prettier) 
