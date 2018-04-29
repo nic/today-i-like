@@ -340,3 +340,6 @@
 ### March 30, 2018 
 - [Popmotion/popmotion: A functional, reactive animation library.](https://github.com/popmotion/popmotion) 
 - [prettier/prettier: Prettier is an opinionated code formatter.](https://github.com/prettier/prettier) 
+
+### April 29, 2018 
+- [Setting correct MTU for OpenVPN | Magento Hosting by Sonassi](https://www.sonassi.com/help/troubleshooting/setting-correct-mtu-for-openvpn) 
