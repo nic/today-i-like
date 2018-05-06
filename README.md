@@ -343,3 +343,6 @@
 
 ### April 29, 2018 
 - [Setting correct MTU for OpenVPN | Magento Hosting by Sonassi](https://www.sonassi.com/help/troubleshooting/setting-correct-mtu-for-openvpn) 
+
+### May 6, 2018 
+- [Kahoot! | Learning Games | Make Learning Awesome!](https://kahoot.com/) 
