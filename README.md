@@ -349,3 +349,6 @@
 
 ### May 7, 2018 
 - [Carbon](https://carbon.now.sh/?bg=rgba(171,%20184,%20195,%201)&t=material&wt=none&l=javascript&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=48px&ph=32px&ln=false&fm=Hack&fs=14px&si=false&es=2x&wm=false) 
+
+### May 11, 2018 
+- [Kate Heddleston](https://kateheddleston.com/blog/becoming-a-10x-developer) 
