@@ -352,3 +352,6 @@
 
 ### May 11, 2018 
 - [Kate Heddleston](https://kateheddleston.com/blog/becoming-a-10x-developer) 
+
+### May 16, 2018 
+- [danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x) 
