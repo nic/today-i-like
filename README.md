@@ -355,3 +355,6 @@
 
 ### May 16, 2018 
 - [danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x) 
+
+### May 21, 2018 
+- [easy-tensorflow/easy-tensorflow: Simple and comprehensive tutorials in TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow) 
