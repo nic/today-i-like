@@ -1,5 +1,8 @@
 # today-i-like
 
+
+### May 29, 2018 
+- [Add/Remove NSAppTransportSecurity rule for localhost on React Native ios project](https://gist.github.com/andrescalco/3dc9576840ad6bb2123f0780694f4363) 
 ### May 28, 2018 
 - [sbilly/awesome-security: A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.](https://github.com/sbilly/awesome-security) 
 - [enaqx/awesome-pentest: A collection of awesome penetration testing resources, tools and other shiny things](https://github.com/enaqx/awesome-pentest) 
