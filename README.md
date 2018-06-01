@@ -1,6 +1,9 @@
 # today-i-like
 
 
+
+### June 1, 2018 
+- [WTF - A Terminal Dashboard](https://wtfutil.com/) 
 ### May 29, 2018 
 - [Add/Remove NSAppTransportSecurity rule for localhost on React Native ios project](https://gist.github.com/andrescalco/3dc9576840ad6bb2123f0780694f4363) 
 ### May 28, 2018 
