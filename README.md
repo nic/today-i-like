@@ -5,6 +5,9 @@
 
 
 
+
+### June 20, 2018 
+- [Blog do Matheus Castiglioni | Listando tarefas com React](http://blog.matheuscastiglioni.com.br/listando-tarefas-com-react) 
 ### June 15, 2018 
 - [Has Vue passed React yet?](https://hasvuepassedreactyet.surge.sh/) 
 - [Has Vue passed React yet?](https://hasvuepassedreactyet.surge.sh/) 
