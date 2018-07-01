@@ -8,6 +8,9 @@
 
 
 
+
+### June 30, 2018 
+- [jiahaog/nativefier: Make any web page a desktop application](https://github.com/jiahaog/nativefier) 
 ### June 23, 2018 
 - [Unrestricted File Upload at Apple.com – Jonathan Bouman – Medium](https://medium.com/@jonathanbouman/how-i-hacked-apple-com-unrestricted-file-upload-bcda047e27e3) 
 ### June 21, 2018 
