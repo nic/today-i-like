@@ -9,6 +9,9 @@
 
 
 
+
+### July 2, 2018 
+- [FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert) 
 ### June 30, 2018 
 - [jiahaog/nativefier: Make any web page a desktop application](https://github.com/jiahaog/nativefier) 
 ### June 23, 2018 
