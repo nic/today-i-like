@@ -12,6 +12,7 @@
 
 ### July 2, 2018 
 - [FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert) 
+- [How PBKDF2 strengthens your Master Password | 1Password](https://support.1password.com/pbkdf2/) 
 ### June 30, 2018 
 - [jiahaog/nativefier: Make any web page a desktop application](https://github.com/jiahaog/nativefier) 
 ### June 23, 2018 
