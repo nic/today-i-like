@@ -10,6 +10,9 @@
 
 
 
+
+### July 8, 2018 
+- [adam-golab/react-developer-roadmap: Roadmap to becoming a React developer in 2018](https://github.com/adam-golab/react-developer-roadmap?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### July 2, 2018 
 - [FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert) 
 - [How PBKDF2 strengthens your Master Password | 1Password](https://support.1password.com/pbkdf2/) 
