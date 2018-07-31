@@ -11,6 +11,9 @@
 
 
 
+
+### July 31, 2018 
+- [Multi threading and multiple process in Node.js – ITNEXT](https://itnext.io/multi-threading-and-multi-process-in-node-js-ffa5bb5cde98) 
 ### July 8, 2018 
 - [adam-golab/react-developer-roadmap: Roadmap to becoming a React developer in 2018](https://github.com/adam-golab/react-developer-roadmap?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 - [adamwdraper/Numeral-js: A javascript library for formatting and manipulating numbers.](https://github.com/adamwdraper/Numeral-js) 
