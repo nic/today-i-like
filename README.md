@@ -12,6 +12,9 @@
 
 
 
+
+### August 22, 2018 
+- [ai/nanoid: A tiny (145 bytes), secure, URL-friendly, unique string ID generator for JavaScript.](https://github.com/ai/nanoid?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### July 31, 2018 
 - [Multi threading and multiple process in Node.js – ITNEXT](https://itnext.io/multi-threading-and-multi-process-in-node-js-ffa5bb5cde98) 
 ### July 8, 2018 
