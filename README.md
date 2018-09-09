@@ -13,6 +13,9 @@
 
 
 
+
+### September 8, 2018 
+- [Responsive images - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) 
 ### August 22, 2018 
 - [ai/nanoid: A tiny (145 bytes), secure, URL-friendly, unique string ID generator for JavaScript.](https://github.com/ai/nanoid?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### July 31, 2018 
