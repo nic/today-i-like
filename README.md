@@ -15,6 +15,9 @@
 
 
 
+
+### September 30, 2018 
+- [SoloKeysSec/solo: FIDO2 USB+NFC token optimized for security, extensibility, and style](https://github.com/SoloKeysSec/solo) 
 ### September 27, 2018 
 - [sobolevn/awesome-cryptography: A curated list of cryptography resources and links.](https://github.com/sobolevn/awesome-cryptography#asymmetric-encryption) 
 ### September 8, 2018 
