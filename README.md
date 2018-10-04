@@ -16,6 +16,9 @@
 
 
 
+
+### October 4, 2018 
+- [Array - 30 seconds of code](https://30secondsofcode.org/) 
 ### September 30, 2018 
 - [SoloKeysSec/solo: FIDO2 USB+NFC token optimized for security, extensibility, and style](https://github.com/SoloKeysSec/solo) 
 ### September 27, 2018 
