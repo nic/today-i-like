@@ -17,6 +17,9 @@
 
 
 
+
+### October 15, 2018 
+- [Igglybuff/awesome-piracy: A curated list of awesome warez and piracy links](https://github.com/Igglybuff/awesome-piracy?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### October 4, 2018 
 - [Array - 30 seconds of code](https://30secondsofcode.org/) 
 ### September 30, 2018 
