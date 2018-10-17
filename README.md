@@ -18,6 +18,9 @@
 
 
 
+
+### October 17, 2018 
+- [leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### October 15, 2018 
 - [Igglybuff/awesome-piracy: A curated list of awesome warez and piracy links](https://github.com/Igglybuff/awesome-piracy?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### October 4, 2018 
