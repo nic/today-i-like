@@ -19,6 +19,9 @@
 
 
 
+
+### October 22, 2018 
+- [mtmr0x/nucleo: 🏋️‍♀️ Nucleo is a work in progress strongly typed and predictable state container library for JavaScript ecosystem written in TypeScript](https://github.com/mtmr0x/nucleo?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### October 17, 2018 
 - [leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### October 15, 2018 
