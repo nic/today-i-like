@@ -21,6 +21,9 @@
 
 
 
+
+### November 21, 2018 
+- [The State of JavaScript 2018](https://2018.stateofjs.com/) 
 ### October 28, 2018 
 - [palmerhq/the-platform: Web. Components. 😂](https://github.com/palmerhq/the-platform) 
 ### October 22, 2018 
