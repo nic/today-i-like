@@ -22,6 +22,9 @@
 
 
 
+
+### November 27, 2018 
+- [wagoodman/dive: A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) 
 ### November 21, 2018 
 - [The State of JavaScript 2018](https://2018.stateofjs.com/) 
 ### October 28, 2018 
