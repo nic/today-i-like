@@ -23,6 +23,9 @@
 
 
 
+
+### December 14, 2018 
+- [Behind the Scenes of iOS Security - YouTube](https://www.youtube.com/watch?v=BLGFriOKz6U) 
 ### November 27, 2018 
 - [wagoodman/dive: A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) 
 ### November 21, 2018 
