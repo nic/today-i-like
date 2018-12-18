@@ -24,6 +24,9 @@
 
 
 
+
+### December 18, 2018 
+- [Remove Background from Image – remove.bg](https://www.remove.bg/) 
 ### December 14, 2018 
 - [Behind the Scenes of iOS Security - YouTube](https://www.youtube.com/watch?v=BLGFriOKz6U) 
 ### November 27, 2018 
