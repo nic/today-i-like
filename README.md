@@ -28,6 +28,7 @@
 
 ### December 21, 2018 
 - [Node.js Child Processes: Everything you need to know](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a) 
+- [Understanding Node.js Event-Driven Architecture – freeCodeCamp.org](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d) 
 ### December 18, 2018 
 - [Remove Background from Image – remove.bg](https://www.remove.bg/) 
 ### December 14, 2018 
