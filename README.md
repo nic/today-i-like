@@ -28,6 +28,9 @@
 
 
 
+
+### February 8, 2019 
+- [Golang’s Real-time GC in Theory and Practice - Making Pusher](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) 
 ### January 17, 2019 
 - [Nullsoft Beep will make your computer “sound like computers sound in the movies.” | @benguild](https://benguild.com/2005/09/20/nullsoft-beep/) 
 ### January 13, 2019 
