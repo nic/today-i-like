@@ -29,6 +29,9 @@
 
 
 
+
+### February 18, 2019 
+- [Managing your costs on Kubernetes](https://karlstoney.com/2018/07/07/managing-your-costs-on-kubernetes/amp/) 
 ### February 8, 2019 
 - [Golang’s Real-time GC in Theory and Practice - Making Pusher](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) 
 ### January 17, 2019 
