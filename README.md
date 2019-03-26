@@ -34,6 +34,7 @@
 
 ### March 25, 2019 
 - [valeriansaliou/vigil: 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack.](https://github.com/valeriansaliou/vigil) 
+- [valeriansaliou/sonic: 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.](https://github.com/valeriansaliou/sonic?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### February 25, 2019 
 - [GitHunt – Trending Github Repositories](https://kamranahmed.info/githunt/) 
 ### February 18, 2019 
