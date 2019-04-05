@@ -32,6 +32,9 @@
 
 
 
+
+### April 4, 2019 
+- [React Native em 2019, nova arquitetura e comparações com Flutter](https://blog.rocketseat.com.br/react-native-em-2019/) 
 ### March 25, 2019 
 - [valeriansaliou/vigil: 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack.](https://github.com/valeriansaliou/vigil) 
 - [valeriansaliou/sonic: 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.](https://github.com/valeriansaliou/sonic?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
