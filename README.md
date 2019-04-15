@@ -33,6 +33,9 @@
 
 
 
+
+### April 15, 2019 
+- [using Mimikatz to get cleartext password from offline memory dump](https://medium.com/@ali.bawazeeer/using-mimikatz-to-get-cleartext-password-from-offline-memory-dump-76ed09fd3330) 
 ### April 4, 2019 
 - [React Native em 2019, nova arquitetura e comparações com Flutter](https://blog.rocketseat.com.br/react-native-em-2019/) 
 ### March 25, 2019 
