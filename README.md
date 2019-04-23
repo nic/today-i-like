@@ -34,6 +34,9 @@
 
 
 
+
+### April 23, 2019 
+- [The Evolution of Trust](https://ncase.me/trust/) 
 ### April 15, 2019 
 - [using Mimikatz to get cleartext password from offline memory dump](https://medium.com/@ali.bawazeeer/using-mimikatz-to-get-cleartext-password-from-offline-memory-dump-76ed09fd3330) 
 - [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) 
