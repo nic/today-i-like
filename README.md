@@ -35,6 +35,9 @@
 
 
 
+
+### April 30, 2019 
+- [Meaningless Graphs](http://meaninglessgraphs.blogspot.com/) 
 ### April 23, 2019 
 - [The Evolution of Trust](https://ncase.me/trust/) 
 ### April 15, 2019 
