@@ -36,6 +36,9 @@
 
 
 
+
+### May 16, 2019 
+- [Distribution vs. Innovation – Andreessen Horowitz](https://a16z.com/2015/11/05/distribution-v-innovation/) 
 ### April 30, 2019 
 - [Meaningless Graphs](http://meaninglessgraphs.blogspot.com/) 
 - [Shitty Graphs, Plots, and Charts](https://www.reddit.com/r/shittydataisbeautiful/) 
