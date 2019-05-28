@@ -40,6 +40,7 @@
 
 ### May 27, 2019 
 - [the-art-of-command-line/README-pt.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-pt.md) 
+- [GoogleChromeLabs/proxx: A game of proximity](https://github.com/GoogleChromeLabs/proxx) 
 ### May 16, 2019 
 - [Distribution vs. Innovation – Andreessen Horowitz](https://a16z.com/2015/11/05/distribution-v-innovation/) 
 ### April 30, 2019 
