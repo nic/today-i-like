@@ -38,6 +38,9 @@
 
 
 
+
+### June 2, 2019 
+- [FormidableLabs/urql: A highly customizable and versatile GraphQL client for React](https://github.com/FormidableLabs/urql) 
 ### May 27, 2019 
 - [the-art-of-command-line/README-pt.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-pt.md) 
 - [GoogleChromeLabs/proxx: A game of proximity](https://github.com/GoogleChromeLabs/proxx) 
