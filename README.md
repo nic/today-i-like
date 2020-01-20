@@ -39,6 +39,9 @@
 
 
 
+
+### January 20, 2020 
+- [mame82/P4wnP1: P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.](https://github.com/mame82/P4wnP1) 
 ### June 2, 2019 
 - [FormidableLabs/urql: A highly customizable and versatile GraphQL client for React](https://github.com/FormidableLabs/urql) 
 ### May 27, 2019 
