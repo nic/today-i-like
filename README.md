@@ -40,6 +40,9 @@
 
 
 
+
+### January 22, 2020 
+- [huginn/huginn: Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn) 
 ### January 20, 2020 
 - [mame82/P4wnP1: P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.](https://github.com/mame82/P4wnP1) 
 ### June 2, 2019 
