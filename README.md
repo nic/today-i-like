@@ -41,6 +41,9 @@
 
 
 
+
+### January 23, 2020 
+- [trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### January 22, 2020 
 - [huginn/huginn: Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn) 
 ### January 20, 2020 
