@@ -42,6 +42,9 @@
 
 
 
+
+### March 26, 2020 
+- [RFC 2119 - Key words for use in RFCs to Indicate Requirement Levels](https://tools.ietf.org/html/rfc2119) 
 ### January 23, 2020 
 - [trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### January 22, 2020 
