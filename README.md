@@ -44,6 +44,9 @@
 
 
 
+
+### May 13, 2020 
+- [The Greatest Sales Deck I’ve Ever Seen - Mission.org - Medium](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) 
 ### April 15, 2020 
 - [AutoDraw](https://www.autodraw.com/) 
 ### March 26, 2020 
