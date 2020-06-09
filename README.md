@@ -48,6 +48,9 @@
 
 
 
+
+### June 9, 2020 
+- [Diffie Hellman Secret Key Exchange using OpenSSL](https://sandilands.info/sgordon/diffie-hellman-secret-key-exchange-with-openssl) 
 ### June 2, 2020 
 - [Blush, Illustrations for everyone](https://blush.design/) 
 ### May 28, 2020 
