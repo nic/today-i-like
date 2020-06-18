@@ -49,6 +49,9 @@
 
 
 
+
+### June 18, 2020 
+- [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/) 
 ### June 9, 2020 
 - [Diffie Hellman Secret Key Exchange using OpenSSL](https://sandilands.info/sgordon/diffie-hellman-secret-key-exchange-with-openssl) 
 ### June 2, 2020 
