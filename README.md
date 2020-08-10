@@ -50,6 +50,9 @@
 
 
 
+
+### August 10, 2020 
+- [francisrstokes/super-expressive: 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language](https://github.com/francisrstokes/super-expressive#Example) 
 ### June 18, 2020 
 - [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/) 
 ### June 9, 2020 
