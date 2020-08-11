@@ -51,6 +51,9 @@
 
 
 
+
+### August 11, 2020 
+- [racerxdl/asm2web: Código usado na live de Assembly for Noobs!](https://github.com/racerxdl/asm2web) 
 ### August 10, 2020 
 - [francisrstokes/super-expressive: 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language](https://github.com/francisrstokes/super-expressive#Example) 
 ### June 18, 2020 
