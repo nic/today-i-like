@@ -52,6 +52,9 @@
 
 
 
+
+### December 18, 2020 
+- [Sound of Text](https://soundoftext.com/) 
 ### August 11, 2020 
 - [racerxdl/asm2web: Código usado na live de Assembly for Noobs!](https://github.com/racerxdl/asm2web) 
 ### August 10, 2020 
